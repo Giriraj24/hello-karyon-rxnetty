@@ -3,7 +3,7 @@
 
 ### Build Tasks
 
-### Running the app
+#### Running the app
 ```
 ./gradlew clean run
 ```
